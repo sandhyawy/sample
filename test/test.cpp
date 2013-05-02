@@ -6,7 +6,7 @@
 
 int main(int argc, _TCHAR* argv[])
 {
-    printf("hello sandhya");
+    printf("hello welcome");
 	return 0;
 }
 
