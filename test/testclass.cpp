@@ -15,4 +15,9 @@ testclass::~testclass(void)
 void testclass::init()
 {
     printf("testclass init ");
+    printf("testclass init ");
+printf("testclass init ");
+printf("testclass init ");
+printf("testclass init ");
+    printf("testclass init ");
 }
