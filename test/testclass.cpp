@@ -4,9 +4,15 @@
 
 testclass::testclass(void)
 {
+  
 }
 
 
 testclass::~testclass(void)
 {
+}
+
+void testclass::init()
+{
+    printf("testclass init ");
 }
